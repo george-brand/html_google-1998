@@ -1,1 +1,1 @@
-# html_google-1998
+This project uses <code>HTML</code> to replicate the appearance of the Google home page in 1998.  It also contains a registration page.  This project was created by following a tutorial in the <strong>Talk Python to Me</strong> <em>100 Days of Web</em> course.  The primary objective of this project was to introduce basic <code>HTML</code> concepts before using <code>CSS</code> or <code>JavaScript</code>.
